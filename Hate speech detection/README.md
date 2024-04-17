@@ -1,0 +1,1 @@
+-Popular tweets from twitter and taken and classified as normal and hate speech. Natural language processing (NLP) is used here for data cleaning and preprocessing..!
